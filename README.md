@@ -30,14 +30,13 @@ Existing items are cleared before generating again to prevent duplicates.
 ## Output Screenshots
 
 ### Q1: Before Clicking
-![Q1 original message](screenshots/q1-before.png)
+![Original message](q1-before.png)
 
 ### Q1: After Clicking
-![Q1 updated message](screenshots/q1-after.png)
+![Updated message](q1-after.png)
 
 ### Q2: Number Validation
-![Q2 validation output](screenshots/q2-result.png)
+![Validation result](q2-result.png)
 
 ### Q3: Generated Numbers
-![Q3 generated list](screenshots/q3-result.png)
-
+![Generated list](q3-result.png)
