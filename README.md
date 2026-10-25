@@ -36,7 +36,24 @@ Existing items are cleared before generating again to prevent duplicates.
 ![Updated message](q1-after.png)
 
 ### Q2: Number Validation
-![Validation result](q2-result.png)
+
+#### Test 1
+![Q2 input 5](q2-test1.png)
+
+#### Test 2
+![Q2 input 10](q2-test2.png)
+
+#### Test 3
+![Q2 input 15](q2-test3.png)
+
+#### Test 4
+![Q2 input abc](q2-test4.png)
+
+#### Test 5
+![Q2 input 10.5](q2-test5.png)
+
+#### Test 6
+![Q2 empty space](q2-test6.png)
 
 ### Q3: Generated Numbers
 ![Generated list](q3-result.png)
